@@ -1,5 +1,6 @@
 #include <iostream>
 
+//¬ообще это будет работать и с bool, ну да ладно
 template <typename T>
 void funcSwap(T& a, T& b)
 {
